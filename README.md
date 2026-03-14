@@ -11,17 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=milanom27&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="milanom27" />
+  <img src="[https://komarev.com/ghpvc/?username=milanom27&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge](https://avatars.githubusercontent.com/u/60301624?v=4&size=64)" alt="milanom27" />
 </p>
 
 ---
 
 ### ⚡ At a Glance
 
-- [cite_start]🚀 **Currently:** Increasing performance and CTR at **FrenchSide**[cite: 10, 11].
+
 - 🛠️ **Building:** [EmergencyBuddy](https://github.com/MilanoM27/emergency-App-) — a real-world solution for rapid response.
-- [cite_start]📚 **Learning:** Deep diving into **Next.js** and **Cloud Architecture**[cite: 23].
-- [cite_start]🎯 **Goal:** Bridging the gap between thoughtful UI design and robust back-end logic[cite: 5, 15].
+- **Learning:** Deep diving into **Next.js** and **Cloud Architecture** 
+-  **Goal:** Bridging the gap between thoughtful UI design and robust back-end logic.
 
 ---
 
@@ -45,9 +45,9 @@
 
 ### 📈 Professional Impact
 
-* [cite_start]**Front-End Architecture:** Improved UI speed and Click-Through Rate (CTR) by **10%** at FrenchSide[cite: 11].
-* [cite_start]**Design to Code:** Specialist in translating UX mockups into **pixel-perfect**, responsive reality[cite: 11, 20].
-* [cite_start]**Full SDLC:** Experienced in the entire lifecycle, from VPS server maintenance (SSH/FTP) to back-end logic[cite: 15, 23].
+* **Front-End Architecture:** Improved UI speed and Click-Through Rate (CTR) by **10%** at FrenchSide.
+*Design to Code:** Specialist in translating UX mockups into **pixel-perfect**, responsive reality.
+***Full SDLC:** Experienced in the entire lifecycle, from VPS server maintenance (SSH/FTP) to back-end logic.
 
 ---
 
